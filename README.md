@@ -6,9 +6,9 @@ for BrainHack Global 2023 in Montreal
 
 ## Installation instructions
 ### Requirements
-A bash terminal
-git
-Python 3
+- A bash terminal
+- git
+- Python 3 (I'm using 3.8.10)
 
 ### Paste this code into your terminal
 ```
