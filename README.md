@@ -20,3 +20,6 @@ pip install --upgrade pip  # upgrade pip
 pip install -r requirements.txt  # install the requirements listed in this file
 jupyter lab  # start jupyter lab
 ```
+
+## Notebooks from nilearn
+Part 3 and part 4 are directly copied from the nilearn examples [Glass brain plotting in nilearn](https://nilearn.github.io/stable/auto_examples/01_plotting/plot_demo_glass_brain.html) and [Making a surface plot of a 3D statistical map](https://nilearn.github.io/stable/auto_examples/01_plotting/plot_3d_map_to_surface_projection.html)
